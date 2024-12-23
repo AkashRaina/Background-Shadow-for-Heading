@@ -1,0 +1,11 @@
+<h4 class="h-title">Events</h4>
+.h-title {
+    font-size: 130px;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF00;
+    -webkit-text-stroke: 0.2px;
+    -webkit-text-stroke-color: #333369;
+    stroke: #333369;
+    margin-bottom: -80px;
+    line-height: 1;
+}
